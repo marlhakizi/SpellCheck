@@ -1,7 +1,17 @@
-## SpellCheck
+### SpellCheck
 
 This is an NLP algorithm able correct corrupted files using tokenization and Levenshtein distance between two sequences.
-In my project, I used a corrupted Jane Austen's book "Sense and Sensibility" file with tested my algorithm by just using 2 paragraphs of the book
+
+My function used:
+* A few paragraphs from the corrupted corrupted Jane Austen's book "Sense and Sensibility" (see try.txt)
+* A text file containing 10000 most popular English words.
+
+
+
+
+
+
+
 
 
 
